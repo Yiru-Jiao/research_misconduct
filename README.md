@@ -1,1 +1,1 @@
-# This repository will host an interactive educational page to raise awareness of research misconduct in the field of traffic safety
+# This repository will host an interactive educational page to raise the awareness of research misconduct and help people properly deal with it if unfortunately being involved. Questions, suggestions, contribution, and discussion are welcome via Issues or any format of personal contact.
